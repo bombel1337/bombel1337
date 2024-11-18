@@ -37,7 +37,13 @@ Here are the technologies I work with:
 
 ---
 
+
+
 ## 📫 Get in Touch
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square)
+
 
 - [LinkedIn](https://www.linkedin.com/in/przygodajacob/)
 - [Email](mailto:realprogrammer@bombelix.com)
+
+
