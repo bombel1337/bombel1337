@@ -1,6 +1,6 @@
-<img src="images/meprogrammer.png" width="500"/>
+<img align="right" src="images/meprogrammer.png" width="500" />
 
-## About Me 
+## About Me
 
 I'm a **22-year-old full-stack developer** from **Warsaw, Poland** 🇵🇱 with **4 years of commercial experience**. I specialize in:
 
