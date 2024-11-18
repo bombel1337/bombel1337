@@ -1,6 +1,6 @@
 <img align="right" src="images/meprogrammer.png" width="500" style="margin-left: 100px; margin-bottom: 100px;"/>
 
-## About Me <!-- No line will be generated here if a custom styling or blank line follows -->
+**About Me** 
 
 I'm a **22-year-old full-stack developer** from **Warsaw, Poland** 🇵🇱 with **4 years of commercial experience**. I specialize in:
 
@@ -33,9 +33,7 @@ Here are the technologies I work with:
 
 ---
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bombel1337&layout=compact&theme=tokyonight)
 
 ---
 
