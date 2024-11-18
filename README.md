@@ -1,4 +1,4 @@
-<img align="right" src="images/meprogrammer.png" width="500" style="margin-left: 100px; margin-bottom: 100px;"/>
+<img align="right" src="images/meprogrammer.png" width="400" style="margin-left: 100px; margin-bottom: 100px;"/>
 
 **About Me** 
 
