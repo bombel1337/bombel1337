@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<img align="right" src="images/meprogrammer.png" width="200" style="margin-left: 20px;"/>
+<img align="right" src="images/meprogrammer.png" width="500" style="margin-left: 100px;"/>
 
 ## About Me
 
