@@ -2,7 +2,7 @@
 
 **About Me** 
 
-I'm a **22-year-old full-stack developer** from **Warsaw, Poland** 🇵🇱\nwith **4 years of commercial experience**. I specialize in:
+I'm a **22-year-old full-stack developer** from **Warsaw, Poland** 🇵🇱     with **4 years of commercial experience**. I specialize in:
 
 - **Golang**
 - **Node.js**
