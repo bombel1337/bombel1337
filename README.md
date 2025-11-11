@@ -2,7 +2,7 @@
 
 **About Me** 
 
-I'm a **23-year-old Software Developer** from **Warsaw, Poland** 🇵🇱 with **4 years of commercial experience**.&nbsp;&nbsp;&nbsp;I specialize in:
+I'm a **23-year-old Software Developer** from **Warsaw, Poland** 🇵🇱 with **4 years of commercial experience**.<br>I specialize in:
 
 - **Golang**
 - **Node.js**
