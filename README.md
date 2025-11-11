@@ -2,7 +2,7 @@
 
 **About Me** 
 
-I'm a **23-year-old backend developer** (but I also work with fullstack) from **Warsaw, Poland** 🇵🇱 &nbsp; with **4 years of commercial experience**. 
+I'm a **23-year-old software developer** from **Warsaw, Poland** 🇵🇱 &nbsp; with **4 years of commercial experience**. 
 I specialize in:
 
 - **Golang**
