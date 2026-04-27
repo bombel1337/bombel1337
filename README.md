@@ -32,7 +32,7 @@ Outside of web dev, I'm passionate about **automation and robotics** — I enjoy
 
 ## 🚀 Featured Project
 
-### [🍕 Pizza Ordering App](https://github.com/bombel1337/pizza-project) — [Live Demo](https://pizza.kubap.pl)
+### [🍕 Pizza Ordering App](https://github.com/bombel1337/pizza-project) — <a href="https://pizza.kubap.pl" target="_blank">Live Demo</a>
 
 Full-stack pizza ordering platform with real-time order tracking and admin chat.
 
