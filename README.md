@@ -62,4 +62,4 @@ Full-stack pizza ordering platform with real-time order tracking and admin chat.
 ![Profile Views](https://komarev.com/ghpvc/?username=bombel1337&color=brightgreen&style=flat-square)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/przygodajacob/)
-- 📧 [realprogrammer@bombelix.com](mailto:realprogrammer@kubap.pl)
+- 📧 [hireme@kubap.pl](mailto:realprogrammer@kubap.pl)
