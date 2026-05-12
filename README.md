@@ -52,7 +52,7 @@ Full-stack pizza ordering platform with real-time order tracking and admin chat.
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bombel1337&layout=compact&theme=tokyonight" />
+  <img src="images/github-stats-card.svg" />
 </p>
 
 ---
