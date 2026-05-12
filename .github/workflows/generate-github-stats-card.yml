@@ -21,5 +21,5 @@ jobs:
           badge_path: images/github-stats-card.svg
           header: " hi i'm"
           about: "Full-stack developer from Warsaw.\nGo backends, Next.js, automation and robotics."
-          theme: dark
+          theme: terminal-green
           commit_message: Update GitHub stats card
