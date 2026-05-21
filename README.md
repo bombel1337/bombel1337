@@ -1,5 +1,3 @@
-<img align="right" src="images/meprogrammer.png" width="360" style="margin-left: 40px; margin-bottom: 20px;"/>
-
 ## Hi, I'm Kuba 👋
 
 I'm a **24-year-old full-stack developer** from **Warsaw, Poland** 🇵🇱 with **6 years of commercial experience**.
